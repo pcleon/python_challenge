@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#使用到split,isdigit
 dir = "files" + "/"
 file = dir + "90052.txt"
 while 1:

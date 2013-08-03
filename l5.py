@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#学习urllib和pickle
 import pickle
 import urllib
 file = urllib.urlopen('http://www.pythonchallenge.com/pc/def/banner.p')

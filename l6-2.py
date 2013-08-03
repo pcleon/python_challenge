@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#学习python 压缩zip
 import zipfile
 dir = "files" + "/"
 file = dir + "channel.zip"

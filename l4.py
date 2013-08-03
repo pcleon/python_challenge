@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#学习正则和urllib
 import urllib2 , urllib
 import re
 url_args = 8022

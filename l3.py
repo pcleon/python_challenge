@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#简单的文件打开关和列表定位
 right_num=0
 file = open("files/txt","r")
 for line in file.readlines():
