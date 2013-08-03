@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#coding=utf-8
 #学习正则和urllib
 import urllib2 , urllib
 import re

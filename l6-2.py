@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#coding=utf-8
 #学习python 压缩zip
 import zipfile
 dir = "files" + "/"
